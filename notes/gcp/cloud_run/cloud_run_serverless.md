@@ -1,3 +1,26 @@
+## Cloud Run
+
+#### Region
+
+#### Deployment and new revisions
+
+#### Container life-cycle
+
+#### CPU throttling, Task Scheduling and throttling
+
+#### Load Balancer and Autoscaler
+
+#### Concurrent Request Limit & Tuning concurrency Limit
+
+#### Cold Start
+
+#### Disposable Containers (Data losses) & In-memory file-system
+
+
+
+
+
+
 ## Event-Driven in Google Cloud:
 
 * Event Source: Identify the source of events, such as Pub/Sub, Cloud Storage, or HTTP requests.
@@ -38,4 +61,6 @@
 
 ### Pub/Sub
 
-* 
+
+
+
